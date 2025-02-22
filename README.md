@@ -2,7 +2,7 @@
 # Kapugedara Harshani Nirmala Kumari Abesinghe
 
 **Under Graduate**  
-📍 Avissawella, Sri Lanka | ✉️ nirmalakumari89@outlook.com | [LinkedIn]([https://linkedin.com/in/johndoe](https://www.linkedin.com/in/harshani-abesinghe-9b729676?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app )
+📍 Avissawella, Sri Lanka | ✉️ nirmalakumari89@outlook.com | [LinkedIn](https://linkedin.com/in/johndoe](https://www.linkedin.com/in/harshani-abesinghe-9b729676?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ---
 
