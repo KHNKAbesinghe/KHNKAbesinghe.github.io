@@ -1,8 +1,8 @@
 # KHNKAbesinghe.github.io
 # Kapugedara Harshani Nirmala Kumari Abesinghe
 
-**Under Graduate**  
-📍 Avissawella, Sri Lanka | ✉️ nirmalakumari89@outlook.com | [LinkedIn](https://linkedin.com/in/johndoe](https://www.linkedin.com/in/harshani-abesinghe-9b729676?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+**Under Graduate - Information Technology**  
+📍 Siltakuja 2D 281, Espoo 20770, Finland | ✉️ nirmalakumari89@outlook.com | [LinkedIn](https://linkedin.com/in/johndoe](https://www.linkedin.com/in/harshani-abesinghe-9b729676?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) | [GitHub] (https://github.com/new)
 
 ---
 
@@ -10,6 +10,7 @@
 - Google Drive
 - Microsoft Excel
 - Microsoft Office
+- Python
 
 ## 💼 Experience  
 **Senior Manager Accounting Operations** | CFO Plans Inc | *2022 – Present*  
