@@ -1,6 +1,6 @@
 # Kapugedara Harshani Nirmala Kumari Abesinghe
 
-![Profile Photo]https://github.com/KHNKAbesinghe/Profile-photo/blob/main/WhatsApp%20Image%202025-08-23%20at%2008.03.23_e8f65a09.jpg
+![Profile Photo](https://raw.githubusercontent.com/KHNKAbesinghe/Profile-photo/main/WhatsApp%20Image%202025-08-23%20at%2008.03.23_e8f65a09.jpg)
 
 **Undergraduate - Information Technology**  
 📍 Siltakuja 2D 281, Espoo 20770, Finland | ✉️ nirmalakumari89@outlook.com | +358 950446173 | [LinkedIn](https://linkedin.com/in/johndoe](https://www.linkedin.com/in/harshani-abesinghe-9b729676?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) | [GitHub] (https://github.com/new)
