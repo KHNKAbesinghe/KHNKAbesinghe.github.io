@@ -61,3 +61,5 @@ and financial reporting.
 ## 🎓 Education  
 **Bachelors Business Administration - Special Degree in Financial Management**  
 University of Peradeniya, Sri Lanka | *2010 – 2014*
+**Bachelors Information Technology**
+Metropolia University of Applied Sciences | *Ongoin*
