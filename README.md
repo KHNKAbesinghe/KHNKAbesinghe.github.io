@@ -1,8 +1,7 @@
-# KHNKAbesinghe.github.io
 # Kapugedara Harshani Nirmala Kumari Abesinghe
 
 **Undergraduate - Information Technology**  
-📍 Siltakuja 2D 281, Espoo 20770, Finland | ✉️ nirmalakumari89@outlook.com | [LinkedIn](https://linkedin.com/in/johndoe](https://www.linkedin.com/in/harshani-abesinghe-9b729676?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) | [GitHub] (https://github.com/new)
+📍 Siltakuja 2D 281, Espoo 20770, Finland | ✉️ nirmalakumari89@outlook.com | +358 950446173 | [LinkedIn](https://linkedin.com/in/johndoe](https://www.linkedin.com/in/harshani-abesinghe-9b729676?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) | [GitHub] (https://github.com/new)
 
 Analytical and motivated Information Technology undergraduate with a passion for data engineering and artificial intelligence. Over 10 years of experience managing accounting operations, combining a strong grasp of business processes with data-driven decision-making. Skilled in data analysis, automation, and the use of technology to optimize financial and operational performance. Adept at problem-solving, learning new tools quickly, and working collaboratively in dynamic environments. Seeking to apply my analytical mindset, technical skills, and managerial experience in a Data & AI Engineer internship at Skillio Oy, contributing to innovative, data-powered solutions.
 
@@ -12,6 +11,7 @@ Analytical and motivated Information Technology undergraduate with a passion for
 - Google Drive
 - Microsoft Excel
 - Microsoft Office
+- Accounting software - SAP | QBO | Navition | Sage 
 - Python
 
 ## 💼 Experience  
